@@ -1,5 +1,5 @@
 # fb-hacker-cup-2020
-### Problem A: Travel Restrictions (10 points)
+### Problem A: Travel Restrictions
 2020 has been a tough year for travelers. Air travel is especially problematic as passengers need to spend long periods in security lines, waiting areas, and crowded cabins where social distancing is difficult to maintain.
 
 To minimize the spread of COVID-19, each airline has decided to reorganize all of their **flight routes in a linear fashion**. The airlines are hoping that by **not making any one country a "hub"**, the spread of the virus will be significantly limited.
@@ -24,7 +24,7 @@ Input begins with an integer `T`, the **number of airlines**. For each airline, 
 **Output**
 For the `ith` airline, output a line containing "Case #i:" followed by `N` more lines, the `ith` of which contains the length-N string `P_{i,1..N}`.
 
-[Sample Outut File](https://github.com/juliehub/fb-hacker-cup-2020/blob/master/fb_ProblemA_Travel_Restrictions.py)
+[Sample Outut File](https://github.com/juliehub/fb-hacker-cup-2020/blob/master/travel_restrictions_sample_output.txt)
 
 **Constraints**
 ```python
